@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="github.png" width="100%">
+</div>
+
+---
 # 👨‍💻 Olá, eu sou o Fábio Rodrigues Borges Filho!
 
 Seja bem-vindo(a) ao meu perfil no GitHub! Sou estudante de **Engenharia de Computação** na **Universidade Federal do Ceará (UFC) – Campus Quixadá**.

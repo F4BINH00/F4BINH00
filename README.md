@@ -23,6 +23,7 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
   <img src="https://img.shields.io/badge/STM32-00599C?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C71585?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 </p>
+
 ---
 
 ### 🚀 Projetos em Destaque

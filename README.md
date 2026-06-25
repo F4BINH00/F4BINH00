@@ -29,7 +29,7 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 
 ### 📊 Estatísticas do GitHub
 
-![Fábio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabiodevBorges&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Fábio's GitHub stats](https://github-readme-stats.vercel.app/api?username=F4BINH00&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ---
 

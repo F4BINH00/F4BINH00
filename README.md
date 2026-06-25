@@ -11,10 +11,10 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arm,linux,html,css,jss,git,canva,arduino" />
-  </a>
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,html,css,js,nodejs,git,arduino,canva" />
 </p>
 
 ---

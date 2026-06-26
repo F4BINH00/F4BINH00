@@ -45,8 +45,8 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 - 💻 **[Pico_USB](https://github.com/F4BINH00/pico-usb-driver)**  
   Driver Linux e firmware para Raspberry Pi Pico com comunicação Kernel ↔ Usuário.
 
-- ♻️ **[Recicla Quixadá](https://github.com/F4BINH00/Recicla-Quixada)**  
-  Plataforma web voltada para otimização da gestão de resíduos sólidos.
+- ♻️ **[Recicla Quixadá]()**  
+  Plataforma colaborativa que conecta cidadãos, catadores e pontos de coleta para promover a economia circular e a inclusão social em Quixadá.
 
 ---
 

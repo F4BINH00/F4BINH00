@@ -33,9 +33,20 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 
 ### 🚀 Projetos em Destaque
 
-*   **[Pico_USB]:** Driver Linux e firmware para Raspberry Pi Pico (Comunicação Kernel ↔ Usuário).
-*   **[Recicla Quixadá]:** Plataforma web voltada para a otimização da gestão de resíduos sólidos.
-*   **[Newton-CV]:** Aplicação de visão computacional (Python) para análise cinemática.
+- 🎮 **[BBB-Jokenpo](https://github.com/F4BINH00/BBB-Jokenpo)**  
+  Projeto final de Sistemas Embarcados desenvolvido em Bare-Metal para a BeagleBone Black.
+
+- 🔭 **[Newton-CV](https://github.com/F4BINH00/Newton-CV)**  
+  Aplicação de Visão Computacional para análise cinemática utilizando Python e OpenCV.
+
+- ⚙️ **[TPSE1-UFC](https://github.com/F4BINH00/TPSE1-UFC)**  
+  Repositório com todas as práticas de Técnicas de Programação para Sistemas Embarcados I.
+
+- 💻 **[Pico_USB](https://github.com/F4BINH00/Pico_USB)**  
+  Driver Linux e firmware para Raspberry Pi Pico com comunicação Kernel ↔ Usuário.
+
+- ♻️ **[Recicla Quixadá](https://github.com/F4BINH00/Recicla-Quixada)**  
+  Plataforma web voltada para otimização da gestão de resíduos sólidos.
 
 ---
 

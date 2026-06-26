@@ -64,7 +64,6 @@ Sinta-se à vontade para entrar em contato comigo para discutir projetos, tecnol
 
 *   **LinkedIn:** [fabio-r-b-filho](https://www.linkedin.com/in/fabio-r-b-filho/)
 *   **Email:** [fabiorbfilho@alu.ufc.br](mailto:fabiorbfilho@alu.ufc.br)
-*   **Localização:** Quixadá, Ceará, Brasil.
 
 ---
 

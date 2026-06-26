@@ -42,7 +42,7 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 - ⚙️ **[TPSE1-UFC](https://github.com/F4BINH00/TPSE1-UFC)**  
   Repositório com todas as práticas de Técnicas de Programação para Sistemas Embarcados I.
 
-- 💻 **[Pico_USB](https://github.com/F4BINH00/Pico_USB)**  
+- 💻 **[Pico_USB](https://github.com/F4BINH00/pico-usb-driver)**  
   Driver Linux e firmware para Raspberry Pi Pico com comunicação Kernel ↔ Usuário.
 
 - ♻️ **[Recicla Quixadá](https://github.com/F4BINH00/Recicla-Quixada)**  

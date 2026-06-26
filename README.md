@@ -53,15 +53,17 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 ### 📊 Estatísticas do GitHub
 
 ![Fábio's GitHub stats](https://github-readme-stats.vercel.app/api?username=F4BINH00&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F4BINH00&layout=compact&theme=radical&hide_border=true)
 
 ---
+
 
 ### 📫 Entre em contato
 
 Sinta-se à vontade para entrar em contato comigo para discutir projetos, tecnologia ou oportunidades:
 
-*   **LinkedIn:** [(https://www.linkedin.com/in/fabio-r-b-filho/)](SEU_LINK_DO_LINKEDIN)
-*   **Email:** [fabiorbfilho@alu.ufc.br](mailto:SEU_EMAIL)
+*   **LinkedIn:** [fabio-r-b-filho](https://www.linkedin.com/in/fabio-r-b-filho/)
+*   **Email:** [fabiorbfilho@alu.ufc.br](mailto:fabiorbfilho@alu.ufc.br)
 *   **Localização:** Quixadá, Ceará, Brasil.
 
 ---

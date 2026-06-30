@@ -59,7 +59,7 @@ Minha trajetória é movida pela curiosidade de entender como as coisas funciona
 
 ### 📊 Gráfico de Atividades
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=F4BINH00&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+[![Fábio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=F4BINH00&theme=react-dark&hide_border=true)](https://github.com/F4BINH00)
 
 ---
 
